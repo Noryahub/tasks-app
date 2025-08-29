@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "123456",
+      "id": "1"
+    },
+    {
+      "id": "f024",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "5d85",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "f11c",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "4e55",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "044e",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "af0e",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "4f01",
+      "email": "betsalel@reactAuth.org",
+      "password": "bets"
+    },
+    {
+      "id": "1756468523256",
+      "email": "betsaleladjanoh25@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "1756468540902",
+      "email": "admin@prajwal.com",
+      "password": "1234"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Réviser React Router update",
+      "description": "Apprendre à naviguer entre les pages de l'application",
+      "priority": "Basse"
+    },
+    {
+      "id": "2",
+      "title": "Préparer le test DevSkiller",
+      "description": "Faire des exercices en Python et Pandas",
+      "priority": "Moyenne"
+    },
+    {
+      "id": "3",
+      "title": "Mettre en place json-server",
+      "description": "Créer le fichier db.json et lancer l'API mock",
+      "priority": "Urgente"
+    },
+    {
+      "id": "4",
+      "title": "Faire du sport",
+      "description": "Courir 30 minutes pour rester en forme",
+      "priority": "Basse"
+    },
+    {
+      "id": "5",
+      "title": "Lire un article IA",
+      "description": "Découvrir les dernières avancées en neurosciences et IA",
+      "priority": "Urgente"
+    }
+  ]
+}
